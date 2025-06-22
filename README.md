@@ -449,6 +449,4 @@ Este projeto é uma demonstração técnica. Use conforme necessário para fins 
 
 ---
 
-**🎯 Objetivo Alcançado**: Sistema profissional, containerizado e funcional para prova de capacidade técnica! #   D o c k e r - H u b 
- 
- 
+**🎯 Objetivo Alcançado**: Sistema profissional, containerizado e funcional para prova de capacidade técnica! #
