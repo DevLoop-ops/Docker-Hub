@@ -9,8 +9,9 @@
 
 **DevLoop** é uma empresa de tecnologia especializada em criar soluções de software sob medida. Nossa missão é transformar desafios de negócio em sistemas eficientes, escaláveis e robustos.
 
-- **Website**: `devloop.com.br` (site fictício)
-- **Contato**: `contato@devloop.com.br`
+- **Website**: ta fechado
+- **Contato**: `codemancer07@gmail.com.br`
+- **Contato**: `Sthevan.ssantos@gmail.com.br`
 
 ---
 
