@@ -2,8 +2,7 @@
 
 > **Prova de Capacidade Técnica** - Um sistema containerizado para processamento e análise de dados de vendas, demonstrando expertise em automação e engenharia de software.
 
-![DevLoop Banner](![Imagem-para-insta-e-outros](https://github.com/user-attachments/assets/bf21ed9d-4266-4dee-b1e2-db92b5236deb)
-) 
+![DevLoop Banner](C:\Users\Sthev\Documents\CEO_DevLoop\Projetos\LOGO DevLoops\Redes Sociais Imagem\.PNG\Imagem-para-insta-e-outros.png) 
 
 ---
 
