@@ -20,9 +20,9 @@
 - ✅ **Consultoria Técnica** especializada
 
 ### 📞 Contato
-- **Website**: [devloop.com.br](https://devloop.com.br)
-- **Email**: contato@devloop.com.br
-- **LinkedIn**: [DevLoop](https://linkedin.com/company/devloop)
+- **Whatsapp**:[Sthevan](https://wa.me/5527988772784)
+- **Email**: codemancer07@gmail.com.br
+- **Email**: sthevan.ssantos@gmail.com.br
 
 ---
 
@@ -400,10 +400,9 @@ Este projeto demonstra **capacidade técnica avançada** da **DevLoop** em:
 
 **DevLoop - Soluções em Tecnologia**
 
-- **Website**: [devloop.com.br](https://devloop.com.br)
-- **Email**: contato@devloop.com.br
-- **LinkedIn**: [DevLoop](https://linkedin.com/company/devloop)
-- **WhatsApp**: (11) 99999-9999
+- **Whatsapp**:[Sthevan](https://wa.me/5527988772784)
+- **Email**: codemancer07@gmail.com.br
+- **Email**: sthevan.ssantos@gmail.com.br
 
 *Transformando ideias em soluções digitais inovadoras*
 
